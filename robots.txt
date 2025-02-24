@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://github.com/yaghmourassen/YounesWebPage/blob/main/sitemap.xml
+
+Sitemap: https://raw.githubusercontent.com/yaghmourassen/YounesWebPage/main/sitemap.xml
+
