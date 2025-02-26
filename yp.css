@@ -171,6 +171,17 @@ footer {
         display: flex;
         padding: 2px;
     }
+     .about-4eme img {
+        width: 350; /* تغيير العرض */
+        height: 250px; /* تغيير الارتفاع */
+    
+    }
+
+      .img-containerbc img {
+        width: 350; /* تغيير العرض */
+        height: 250px; /* تغيير الارتفاع */
+      
+    }
 
     .img-containerbc, .img-containerbc2, .img-containerlc1, .img-containerlc2 {
         display: flex;
