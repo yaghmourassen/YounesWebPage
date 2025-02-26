@@ -220,3 +220,9 @@ footer {
         margin-left: 620px;
     }
 }
+@media (max-width: 576px) {
+    #ppt {
+    
+        margin-left: 20px !important; /* إضافة هامش يسار عند الشاشات الصغيرة */
+    }
+}
